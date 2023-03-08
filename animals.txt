@@ -1,3 +1,4 @@
+lion ContributorB
 lion Contributer A
 tiger
 leopard
